@@ -1,0 +1,16 @@
+PODS:
+  - SYServices (0.1.0)
+
+DEPENDENCIES:
+  - SYServices (from `../`)
+
+EXTERNAL SOURCES:
+  SYServices:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SYServices: 2ba4d7ef39dc13092acf612dc396dcaee1318ddb
+
+PODFILE CHECKSUM: 2f5cc8c8e49ca7931492af1d33c5c4bfdddf202d
+
+COCOAPODS: 1.9.3

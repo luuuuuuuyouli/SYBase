@@ -1,0 +1,6 @@
+framework module SYServices {
+  umbrella header "SYServices-umbrella.h"
+
+  export *
+  module * { export * }
+}

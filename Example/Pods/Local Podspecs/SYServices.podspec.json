@@ -1,0 +1,22 @@
+{
+  "name": "SYServices",
+  "version": "0.1.0",
+  "summary": "A short description of SYServices.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/15826383768@163.com/SYServices",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "15826383768@163.com": "15826383768@163.com"
+  },
+  "source": {
+    "git": "https://github.com/15826383768@163.com/SYServices.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SYServices/Classes/**/*"
+}
